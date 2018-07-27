@@ -234,7 +234,7 @@ a:active {
 						<td height="50">&nbsp;</td>
 					</tr>
 					<tr>
-						<td class="text00122" align="center">胡泽军@广东机电职业技术学院 2012 <br>
+						<td class="text00122" align="center">杜籽浩 <br>
 						</td>
 					</tr>
 					<tr>
